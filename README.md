@@ -1,6 +1,6 @@
 # Vue-test-sample
 ## モチベーション
-Vueを利用しているリポジトリでテストを導入することを目的としています。
+Vueを利用しているリポジトリでテストを導入することを目的としています。PWA化もおまけでしています
 
 ## ゴール
 1. [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)を参考にし4つのテストを導入してみる
